@@ -1,7 +1,7 @@
 V-REP remote API Python bindings
 ===
 
-Python bindings for the V-REP Linux 64 bit remote API, for easy import as a git submodule.
+Python bindings for the V-REP Linux 64 bit & the Mac remote API, for easy import as a git submodule.
 
 
 Run the following inside your project repository and then commit:
