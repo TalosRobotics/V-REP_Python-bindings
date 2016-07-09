@@ -11,4 +11,21 @@ git submodule add https://github.com/Talos-robotics/V-REP_Python-bindings.git
 
 V-REP version: 3.3.1 Rev1
 
+source paths
+---
+vrep.py & vrepConst.py
+```
+<V-REP root directory>/programming/remoteApiBindings/python/python/
+```
+
+remoteApi.so
+```
+<Linux 64 bit V-REP root directory>/programming/remoteApiBindings/lib/lib/64Bit/
+```
+
+remoteApi.dylib
+```
+<Mac V-REP root directory>/programming/remoteApiBindings/lib/lib/
+`
+
 (c) [Coppelia Robotics GmbH](http://www.coppeliarobotics.com/), licensed under the [GPL](GPL.txt)
