@@ -9,7 +9,7 @@ Run the following inside your project repository and then commit:
 git submodule add https://github.com/Talos-robotics/V-REP_Python-bindings.git
 ```
 
-V-REP version: 3.3.1 Rev1
+V-REP version: 3.3.2
 
 source paths
 ---
