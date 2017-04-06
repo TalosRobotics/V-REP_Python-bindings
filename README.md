@@ -1,7 +1,7 @@
 V-REP remote API Python bindings
 ===
 
-Python bindings for the V-REP Linux 64 bit & Mac remote API, for easy import as a git submodule.
+Python bindings for the V-REP Linux remote API, for easy import as a git submodule.
 
 
 Run the following inside your project repository and then commit:
@@ -20,12 +20,7 @@ vrep.py & vrepConst.py
 
 remoteApi.so
 ```
-<Linux 64 bit V-REP root directory>/programming/remoteApiBindings/lib/lib/64Bit/
-```
-
-remoteApi.dylib
-```
-<Mac V-REP root directory>/programming/remoteApiBindings/lib/lib/
+<Linux V-REP root directory>/programming/remoteApiBindings/lib/lib/64Bit/
 ```
 
 (c) [Coppelia Robotics GmbH](http://www.coppeliarobotics.com/), licensed under the [GPL](GPL.txt)
