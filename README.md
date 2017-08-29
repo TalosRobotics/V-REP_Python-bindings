@@ -6,7 +6,7 @@ Python bindings for the V-REP Linux remote API, for easy import as a git submodu
 
 Run the following inside your project repository and then commit:
 ```
-git submodule add https://github.com/Talos-robotics/V-REP_Python-bindings.git
+git submodule add https://github.com/TalosRobotics/V-REP_Python-bindings.git
 ```
 
 V-REP version: 3.4.0 (rev. 1)
